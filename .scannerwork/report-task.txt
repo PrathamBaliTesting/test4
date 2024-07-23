@@ -3,5 +3,5 @@ projectKey=PrathamBaliTesting_test4
 serverUrl=https://sonarcloud.io
 serverVersion=8.0.0.56093
 dashboardUrl=https://sonarcloud.io/dashboard?id=PrathamBaliTesting_test4
-ceTaskId=AZDgyNMN0k6eIoyHjXoL
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZDgyNMN0k6eIoyHjXoL
+ceTaskId=AZDgzVbSIFhjtPVNE8Do
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZDgzVbSIFhjtPVNE8Do
